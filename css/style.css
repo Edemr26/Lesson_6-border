@@ -133,7 +133,8 @@ h2 {
 	outline: 10px double greenyellow;
 	box-shadow: 35px -35px 10px black;
 }
-.Circle{
+
+.Circle {
 	width: 200px;
 	height: 200px;
 	outline: 20px dotted red;
@@ -142,31 +143,34 @@ h2 {
 	text-align: center;
 	margin-bottom: 50px;
 }
-.ddd{
+
+.ddd {
 	background-color: #010309;
 	outline: 5px dotted red;
 	opacity: 50%;
 	color: white;
 	margin-bottom: 20px;
 }
-span{
+
+span {
 	display: block;
 	border: 5px solid chartreuse;
 	padding: 20px;
 	margin-bottom: 30px;
 }
-.dddd{
+
+.dddd {
 	border-bottom: 15px groove darkblue;
 	border-top: 18px dashed darkgoldenrod;
 	border-left: 15px outset #000;
-	border-right: 15px inset  darkmagenta;
+	border-right: 15px inset darkmagenta;
 	padding: 20px;
 	width: 500px;
 	min-height: 100px;
 	margin: 30px;
 }
 
-a{
+a {
 	display: block;
 	font-size: 60px;
 	box-shadow: -50px 50px 10px 100px red;
@@ -174,3 +178,4 @@ a{
 	text-align: center;
 }
 
+ffafgawf
